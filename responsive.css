@@ -1,0 +1,10 @@
+@media (max-width: 548px) {
+    .main {
+        transform: scale(1);
+    }
+}
+@media (max-width: 548px) {
+    .main {
+        transform: scale(0.8);
+    }
+}
